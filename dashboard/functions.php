@@ -50,4 +50,4 @@ function get_vvv_hosts( $path, $depth = 3 ) {
 }
 
 // Global variable used in a few different templates.
-$vvv_hosts = get_vvv_hosts( '../..' );
+$vvv_hosts = get_vvv_hosts( '../../..' );
